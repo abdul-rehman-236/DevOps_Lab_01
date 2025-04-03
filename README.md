@@ -48,7 +48,7 @@ Here are the steps to do this.
   * From the **Category**, open Connection > SSH > Auth > Credentials. Browse the key downloaded from system in **Private key file for authentication**.
   * Click the open button. This will open the machine locally. We just need to write the name of user (For ubuntu machine on AWS, it is most probably **ubuntu**).
   > You follow the steps from video below.  
-  ><video controls src="Recording 2025-04-03 013051.mp4" title="Title"></video>
+  ><video controls src="https://github.com/user-attachments/assets/fe2eddf8-4fa7-40ec-b23c-c2a5b6d2c26a" title="Title"></video>
 
 ### Point 4: File Permission practice
 * Create three users. Bob, Alice and Harry.
